@@ -3,12 +3,12 @@
 ## Introduction
 IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI. Watson OpenScale enables the enterprise to: 
 
-	Measure performance of production AI and its impact on business goals <br>
-	Track actionable metrics in a single console <br>
-	Explain AI outcomes <br>
-	Detect and mitigate harmful bias to improve outcomes <br>
-	Accept feedback to compute accuracy measures <br>
-	Accelerate the integration of AI into existing business applications. <br>
+1. Measure performance of production AI and its impact on business goals <br>
+1. Track actionable metrics in a single console <br>
+1. Explain AI outcomes <br>
+1. Detect and mitigate harmful bias to improve outcomes <br>
+1. Accept feedback to compute accuracy measures <br>
+1. Accelerate the integration of AI into existing business applications. <br>
 
 ## Objectives 
 
