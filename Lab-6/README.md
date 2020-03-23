@@ -13,19 +13,19 @@ IBM Watson OpenScale is an open platform that helps remove barriers to enterpris
 ## Objectives 
 
 Upon completing the lab, you will know how to:
-1.  Import a machine learning model 
-2.	Deploy the model 
-3.	Provision Watson OpenScale
-4.	Configure the payload logging database and Machine Learning provider
-5.	Score Data 
-6.	Prepare Deployed Model for Monitoring
-7.	Configure Payload Logging
-8.	Configure Quality
-9.	Configure Fairness 
-10.	Configure Drift 
-11.	Submit Feedback and View Quality Metrics
-12.	Score Data and View Fairness Metrics 
-13.	Explain a Transaction. 
+1. Import a machine learning model 
+1. Deploy the model 
+1. Provision Watson OpenScale
+1. Configure the payload logging database and Machine Learning provider
+1. Score Data 
+1. Prepare Deployed Model for Monitoring
+1. Configure Payload Logging
+1. Configure Quality
+1  Configure Fairness 
+1. Configure Drift 
+1. Submit Feedback and View Quality Metrics
+1. Score Data and View Fairness Metrics 
+1. Explain a Transaction. 
 
 
 ### Step 1. Please click on the link to download the instructions to your machine
